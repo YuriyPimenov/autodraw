@@ -2,11 +2,11 @@ import cv2
 import numpy as np
 import math
 
-filename = './plan.jpg'
+filename = './level1.jpg'
 # path = r'C:\Users\selwyn77\Desktop\Stack\corner'
 
 
-img = cv2.imread('./plan.jpg')
+img = cv2.imread('./level1.jpg')
 # img = cv2.imread(os.path.join(path, filename))
 gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)    #--- convert to grayscale
 

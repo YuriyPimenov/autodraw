@@ -8,14 +8,12 @@ decorator==4.4.0
 gast==0.2.2
 grpcio==1.19.0
 h5py==2.9.0
-imageio==2.5.0
 imutils==0.5.2
 Keras==2.2.4
 Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
 kiwisolver==1.0.1
 Markdown==3.1
-matplotlib==3.0.3
 mock==2.0.0
 networkx==2.2
 numpy==1.16.2
@@ -31,10 +29,6 @@ python-dateutil==2.8.0
 pytube==9.4.0
 pytz==2019.1
 PyWavelets==1.0.3
-PyYAML==5.1
-scikit-image==0.15.0
-scikit-learn==0.20.3
-scipy==1.2.1
 six==1.12.0
 tensorboard==1.13.1
 tensorflow==1.13.1
