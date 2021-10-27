@@ -3,7 +3,7 @@ astor==0.7.1
 cloudpickle==0.8.1
 cycler==0.10.0
 Cython==0.29.6
-dask==1.1.5
+dask==2021.10.0
 decorator==4.4.0
 gast==0.2.2
 grpcio==1.19.0
